@@ -1,0 +1,9 @@
+table {margin-bottom:1.4em;} 
+th {font-weight:bold;background:#5b0101;color:white;} 
+th,td,caption {padding:4px 10px 4px 5px;} 
+
+tbody tr:nth-child(even) td {} 
+tbody tr:hover td {background:#F6F6F6;} 
+
+tfoot {font-style:italic;} 
+caption {text-align:left;background:#F6F6F6;} 
